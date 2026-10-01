@@ -15,7 +15,7 @@ Mi enfoque tecnico se nutre de una base profesional unica: mi experiencia previa
 - Pruebas de Integración y Funcionales de APIs  
 - Conocimiento en SQL y reportes de pruebas (JIRA, Google Sheets)
 
----## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>

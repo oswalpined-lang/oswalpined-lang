@@ -29,7 +29,6 @@ Mi enfoque tecnico se nutre de una base profesional unica: mi experiencia previa
 
 
 ## ⚙️ Herramientas que domino
-## ⚙️ Herramientas por área
 
 | **Área**          | **Tools**                                                                 |
 |--------------------|---------------------------------------------------------------------------|

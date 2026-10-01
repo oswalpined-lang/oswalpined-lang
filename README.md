@@ -29,7 +29,7 @@ Mi enfoque tecnico se nutre de una base profesional unica: mi experiencia previa
 - **Proyecto API Urban Grocers** → Pruebas de APIs con Postman  
 - **Proyecto Urban Routes Web** → Pruebas funcionales y de diseño  
 - **Pruebas móviles** → Validación de apps Android
-- **Proyecto Urban Scooter
+- Proyecto Urban Scooter
 
 ---
 

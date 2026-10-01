@@ -29,10 +29,15 @@ Mi enfoque tecnico se nutre de una base profesional unica: mi experiencia previa
 
 
 ## ⚙️ Herramientas que domino
-| Testing | Gestión | Datos | Otros |
-|---------|---------|-------|-------|
-| Postman | JIRA | SQL | GitHub |
-| RESTful | Confluence | Google Sheets | GitLab |
+## ⚙️ Herramientas por área
+
+| **Área**          | **Tools**                                                                 |
+|--------------------|---------------------------------------------------------------------------|
+| **UI Automation**  | Selenium WebDriver, Page Object Model, Pytest                             |
+| **API Testing**    | Postman, Python Requests                                                  |
+| **Bug Tracking**   | JIRA, DevTools, Android Studio                                            |
+| **AI-Powered QA**  | Generative AI & Prompt Engineering para creación y optimización de scripts |
+
 
 ---
 
